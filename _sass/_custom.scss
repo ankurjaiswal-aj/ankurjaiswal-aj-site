@@ -360,13 +360,9 @@ html[data-theme="dark"] .archive .archive__item-award { color: #e0c260; }
   vertical-align: -0.2em;
 }
 
-/* UT Austin longhorn, sidebar */
-.author__longhorn {
-  margin-top: 0.55em !important;
-  padding-left: 0 !important;
-}
-.author__longhorn img {
-  width: 46px;
+/* UT Austin longhorn, used as the employer line's icon */
+.icon-longhorn {
+  width: 1.45em;
   height: auto;
-  opacity: 0.95;
+  vertical-align: -0.15em;
 }
