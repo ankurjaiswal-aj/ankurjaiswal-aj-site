@@ -359,3 +359,14 @@ html[data-theme="dark"] .archive .archive__item-award { color: #e0c260; }
   height: 1.15em;
   vertical-align: -0.2em;
 }
+
+/* UT Austin longhorn, sidebar */
+.author__longhorn {
+  margin-top: 0.55em !important;
+  padding-left: 0 !important;
+}
+.author__longhorn img {
+  width: 46px;
+  height: auto;
+  opacity: 0.95;
+}
