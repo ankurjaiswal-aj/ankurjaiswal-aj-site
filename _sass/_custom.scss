@@ -360,9 +360,15 @@ html[data-theme="dark"] .archive .archive__item-award { color: #e0c260; }
   vertical-align: -0.2em;
 }
 
-/* UT Austin longhorn, used as the employer line's icon */
-.icon-longhorn {
-  width: 1.45em;
+/* UT Austin longhorn, used as the employer line's icon.
+   NOTE: the theme sets `.sidebar img { width: 100% }`, which outranks a
+   single class selector - hence `.sidebar img.icon-longhorn` here. */
+.sidebar img.icon-longhorn,
+.author__content img.icon-longhorn,
+img.icon-longhorn {
+  width: 1.5em !important;
+  max-width: 1.5em !important;
   height: auto;
-  vertical-align: -0.15em;
+  display: inline;
+  vertical-align: -0.2em;
 }
