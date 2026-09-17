@@ -10,7 +10,12 @@ I am a PhD Candidate in Information Systems at the McCombs School of Business, T
 
 **I am on the 2026-27 academic job market and expect to graduate in May 2027.**
 
+{% comment %}
+Job market paper link, withheld until the PDF exists. To restore it:
+drop the file into files/ and uncomment the line below, matching the filename.
+
 [Job market paper (PDF)]({{ base_path }}/files/Jaiswal_JMP.pdf)
+{% endcomment %}
 
 ## Research
 
