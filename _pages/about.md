@@ -29,8 +29,6 @@ My research examines how organizations create value from information systems as 
 
 **How work environments should be designed for agentic workflows.** Where knowledge work is delegated to agentic AI but not accountability, the evidence a claim rests on is easily lost. I contributed to the design of an IT artifact that keeps that record durable and inspectable, and to the design framework behind it.
 
-Running through all three is an interest in organizations and their technology partnerships: why some firms adapt AI systems into genuine capability while others do not, and how work environments can be evolved so these systems create value and make workers measurably better at what they do.
-
 I work with proprietary system and digital trace data, clickstream and real user monitoring records, and quasi-experimental designs. I established the industry relationship behind this work and continue to maintain it directly: a partnership with a U.S. InsurTech SaaS platform that supports my current research and the work I plan next. I see building and sustaining partnerships of this kind as part of the research itself.
 
 </div>
