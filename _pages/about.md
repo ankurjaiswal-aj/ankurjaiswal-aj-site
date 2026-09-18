@@ -35,7 +35,9 @@ I work with proprietary system and digital trace data, clickstream and real user
 
 ## Research Interests
 
-Generative AI and knowledge work; business value of IT; continuous feature innovation; complexity science; IT failure; agentic AI workflows; durable provenance; CRM.
+**Topical** — Generative AI and knowledge work; business value of AI; complexity science; continuous feature innovation; IT failure; attention and effort distortions from probabilistic systems; agentic AI workflows; durable provenance; CRM.
+
+**Methodological** — Causal inference; applied econometrics; Bayesian hierarchical modeling; field experiments and A/B testing; game-theoretic modeling; agent-based simulation.
 
 ## Before UT Austin
 
